@@ -1,0 +1,11 @@
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab10_movielist\Lab10_movielist\obj\Debug\netcoreapp3.1\Lab10_movielist.csprojAssemblyReference.cache
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab10_movielist\Lab10_movielist\obj\Debug\netcoreapp3.1\Lab10_movielist.AssemblyInfoInputs.cache
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab10_movielist\Lab10_movielist\obj\Debug\netcoreapp3.1\Lab10_movielist.AssemblyInfo.cs
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab10_movielist\Lab10_movielist\bin\Debug\netcoreapp3.1\Lab10_movielist.exe
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab10_movielist\Lab10_movielist\bin\Debug\netcoreapp3.1\Lab10_movielist.deps.json
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab10_movielist\Lab10_movielist\bin\Debug\netcoreapp3.1\Lab10_movielist.runtimeconfig.json
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab10_movielist\Lab10_movielist\bin\Debug\netcoreapp3.1\Lab10_movielist.runtimeconfig.dev.json
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab10_movielist\Lab10_movielist\bin\Debug\netcoreapp3.1\Lab10_movielist.dll
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab10_movielist\Lab10_movielist\bin\Debug\netcoreapp3.1\Lab10_movielist.pdb
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab10_movielist\Lab10_movielist\obj\Debug\netcoreapp3.1\Lab10_movielist.dll
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab10_movielist\Lab10_movielist\obj\Debug\netcoreapp3.1\Lab10_movielist.pdb
